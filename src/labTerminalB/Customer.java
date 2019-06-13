@@ -30,6 +30,9 @@ public class Customer {
 		 * TODO 3		10 Marks
 		 * Provide suitable specification for statement method 
 		 */
+		
+		
+		
 		public String statement() {
 		double totalAmount = 0;
 		int frequentRenterPoints = 0;
